@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 so i am in hotfix branch and i am tryiing to make a merge conflict
+=======
+so i am in main branch
+>>>>>>> main
